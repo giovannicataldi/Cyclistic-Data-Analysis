@@ -26,5 +26,7 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 # Business Task
 
-Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes differently? Analyze Cyclistic bike-share data to identify differences between how casual riders and annual members use bikes, with the goal of designing a marketing strategy to convert casual riders into annual members.
+Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes differently?
+
+Analyze Cyclistic bike-share data to identify differences between how casual riders and annual members use bikes, with the goal of designing a marketing strategy to convert casual riders into annual members.
 
