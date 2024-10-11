@@ -14,7 +14,7 @@ This pie chart illustrates the **distribution of membership types** for Cyclisti
 
 The chart shows that **annual members** (*2,811,161*) make up a significantly larger portion of total riders compared to **casual riders** (*1,524,678*). This indicates that more riders have opted for an annual membership, likely enjoying the benefits associated with long-term commitment, such as reduced rates or incentives for frequent use. 
 
-Understanding this distribution is crucial for targeting marketing efforts, as it suggests a large portion of users are already committed to long-term use. The casual rider segment, however, remains a considerable market for conversion into annual memberships. This segmentation provides an opportunity for focused strategies aimed at turning these casual users into members.
+Understanding this distribution is crucial for targeting marketing efforts, as it suggests a large portion of users are already committed to long-term use. The casual rider segment, however, remains a **considerable market** for conversion into annual memberships. This segmentation provides an opportunity for focused strategies aimed at turning these casual users into members.
 
 ## 2. Ride Types
 <img src="images/Ride_Types.png" alt="Ride Types" width="700">
@@ -40,24 +40,24 @@ The difference between the number of riders at each station is lowest at **DuSab
 
 <img src="images/Top10_Popular_Start_Stations_Distribution.png" alt="Top 10 Most Popular Start Stations and their Geographic Distribution" width="900">
 
-The **geographic distribution** of these stations provides further insights into the preferences of casual riders and members. Casual riders' strong preference for stations near waterfront locations and tourist-heavy areas suggests that they are more likely to begin rides in scenic or popular tourist spots, such as:
+The **geographic distribution** of these stations provides further insights into the preferences of casual riders and members. Casual riders' strong preference for stations near **waterfront locations** and **tourist-heavy areas** suggests that they are more likely to begin rides in **scenic** or popular tourist spots, such as:
 
 - **Streeter Dr & Grand Ave** (seemingly located near a pier),
 - **Millennium Park**, and
 - **DuSable Lake Shore Dr & North Blvd**.
 
-These stations may be located in areas that attract tourists or casual users who may ride for leisure or sightseeing purposes.
+These stations may be located in areas that attract tourists or casual users who may ride for **leisure or sightseeing purposes**.
 
-In contrast, members demonstrate more distributed usage patterns across the city. Stations like Kingsbury St & Kinzie St and Clinton St & Washington Blvd, located further from tourist attractions, indicate a preference for practical, everyday travel, such as commuting to work or running errands.
+In contrast, members demonstrate more distributed usage patterns across the city. Stations like Kingsbury St & Kinzie St and Clinton St & Washington Blvd, located further from tourist attractions, indicate a preference for **practical, everyday travel**, such as commuting to work or running errands.
 
-This geographic distribution aligns with the hypothesis that casual riders primarily use the service for recreational purposes, while members likely use it for functional, more frequent trips. Understanding these geographical differences is essential for designing targeted promotions, as marketing efforts could focus on encouraging casual riders to explore the benefits of membership, even when starting from scenic or leisure-focused stations.
+This geographic distribution aligns with the hypothesis that casual riders primarily use the service for **recreational** purposes, while members likely use it for **functional**, more frequent trips. Understanding these geographical differences is essential for designing targeted promotions, as marketing efforts could focus on encouraging casual riders to explore the benefits of membership, even when starting from scenic or leisure-focused stations.
 
 ## 4. Average Ride Lengths 
 <img src="images/Average_Ride_Lengths.png" alt="Average Ride Lengths " width="500">
 
 This bar chart compares the average ride duration between **casual riders (blue)** and **members (orange)** in minutes. The chart displays two bars, with casual riders represented in blue and members in orange. **Casual riders** average around *13* minutes per ride, while **members** have shorter average rides, around *9* minutes.
 
-This visualization reveals that casual riders tend to use Cyclistic bikes for longer trips compared to annual members. The difference in ride length could indicate that casual riders are more likely to use the service for leisure, leading to longer, more infrequent rides. On the other hand, members likely use the bikes for shorter, perhaps more frequent, trips such as commuting. This insight aligns with the hypothesis that casual riders could be incentivized to switch to membership if offered promotions targeting their leisure-based usage patterns, encouraging more frequent, shorter rides at a lower cost through a membership plan.
+This visualization reveals that casual riders tend to use Cyclistic bikes for longer trips compared to annual members. The difference in ride length could indicate that casual riders are more likely to use the service for **leisure**, leading to longer, more **infrequent** rides. On the other hand, members likely use the bikes for shorter, perhaps more **frequent**, trips such as commuting. This insight aligns with the hypothesis that casual riders could be incentivized to switch to membership if offered promotions targeting their leisure-based usage patterns, encouraging more frequent, shorter rides at a lower cost through a membership plan.
 
 ## 5. Sum of Ride Lengths
 <img src="images/Sum_of_Ride_Lengths.png" alt="Sum of Ride Lengths" width="500">
@@ -82,8 +82,8 @@ The visualization reveals that casual riders consistently have longer ride durat
 - **Sunday** shows the highest difference, where casual riders' average ride length is *19* minutes, while members average *11* minutes.
 - Casual riders also show a significant difference on **Monday**, averaging *16* minutes compared to members' *9* minutes.
 - The ride lengths are most similar on **Friday**, with both casual riders and members averaging around *7* minutes.
-- The average ride length for members drops on Friday into Saturday and rises again on Sunday, indicating that members may use bikes for shorter, more routine trips at the start of the weekend, possibly for quick errands. By Sunday, the increase in ride length could suggest more leisurely rides as members take advantage of their free time. This pattern aligns with the idea that members' bike usage on Saturdays is focused on brief outings, while Sundays see a shift towards longer, recreational rides as the weekend winds down.
-- The average ride length for casual members consistently drops during weekdays and rises during weekends, suggesting casual riders tend to use the service more for lesiure or extended trips on weekends.
+- The average ride length for members drops on Friday into Saturday and rises again on Sunday, indicating that members may use bikes for shorter, more routine trips at the start of the weekend, possibly for **quick errands**. By Sunday, the increase in ride length could suggest more leisurely rides as members take advantage of their **free time**. This pattern aligns with the idea that members' bike usage on Saturdays is focused on **brief outings**, while Sundays see a shift towards longer, recreational rides as the weekend winds down.
+- The average ride length for casual members consistently drops during weekdays and rises during weekends, suggesting casual riders tend to use the service more for **lesiure** or **extended trips** on weekends.
 
 These insights into daily ride durations provides a valuable opportunity to create targeted marketing strategies:
 
@@ -131,4 +131,4 @@ This line chart shows the total ride length in minutes for **casual riders (blue
 
 **Members** follow a more predictable commuting pattern, with high activity during traditional work commute times—morning and evening rush hours. This suggests members primarily use the service for daily commuting.
 
-Marketing strategies could target casual riders with promotions during off-peak hours or encourage them to use the service for commuting by offering discounts for morning rides.
+Marketing strategies could target casual riders with promotions during **off-peak hours** or encourage them to use the service for commuting by offering discounts for morning rides.
