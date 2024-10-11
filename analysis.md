@@ -6,3 +6,17 @@ marketing strategies aimed at converting casual riders into annual members.
 
 Each visualization below highlights critical trends and patterns in user behavior, providing a clear understanding of how different rider types interact with Cyclistic’s services. The following analysis ties the 
 visual evidence directly to key findings, offering a data-driven approach to the marketing team’s decision-making process.
+
+## 1. Distribution of Membership Types
+
+## 2. Ride Types
+
+## 3. Average Ride Lengths
+
+## 4. Sum of Ride Lengths 
+
+## 5. Daily Ride Durations
+
+## 6. Rides by Time of Day
+
+## 7. Top 10 Most Popular Start Stations and their Geographic Distribution
